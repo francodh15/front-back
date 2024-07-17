@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Franco\\Desktop\\app fullStack\\back\\apiBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92BE48AA-482F-49BB-925F-8E548ACA9A82}|apiBack\\apiBack.csproj|c:\\users\\franco\\desktop\\app fullstack\\back\\apiback\\apiback\\repositorios\\customerdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BE48AA-482F-49BB-925F-8E548ACA9A82}|apiBack\\apiBack.csproj|solutionrelative:apiback\\repositorios\\customerdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerDataBaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Franco\\Desktop\\app fullStack\\back\\apiBack\\apiBack\\Repositorios\\CustomerDataBaseContext.cs",
+              "RelativeDocumentMoniker": "apiBack\\Repositorios\\CustomerDataBaseContext.cs",
+              "ToolTip": "C:\\Users\\Franco\\Desktop\\app fullStack\\back\\apiBack\\apiBack\\Repositorios\\CustomerDataBaseContext.cs",
+              "RelativeToolTip": "apiBack\\Repositorios\\CustomerDataBaseContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T00:38:16.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
