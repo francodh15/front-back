@@ -1,3 +1,4 @@
+using apiBack.casos_de_uso;
 using apiBack.Repositorios;
 using Microsoft.EntityFrameworkCore;
 
@@ -14,6 +15,8 @@ builder.Services.AddDbContext<CustomerDataBaseContext>(mysqlBuilder =>
 {
     mysqlBuilder.UseMySQL(builder.Configuration.GetConnectionString("Connetion1"));
 });
+
+builder.Services.AddScoped<IUpdateCustomerUseCase , UpdateCustomerUseCase>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

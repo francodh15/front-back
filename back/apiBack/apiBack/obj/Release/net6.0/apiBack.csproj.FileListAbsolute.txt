@@ -53,3 +53,14 @@ C:\Users\Franco\Desktop\app fullStack\back\apiBack\apiBack\obj\Release\net6.0\re
 C:\Users\Franco\Desktop\app fullStack\back\apiBack\apiBack\obj\Release\net6.0\apiBack.pdb
 C:\Users\Franco\Desktop\app fullStack\back\apiBack\apiBack\obj\Release\net6.0\apiBack.genruntimeconfig.cache
 C:\Users\Franco\Desktop\app fullStack\back\apiBack\apiBack\obj\Release\net6.0\ref\apiBack.dll
+C:\Users\Administrador\Desktop\repo back\front-back\back\apiBack\apiBack\obj\Release\net6.0\apiBack.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\repo back\front-back\back\apiBack\apiBack\obj\Release\net6.0\apiBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\repo back\front-back\back\apiBack\apiBack\obj\Release\net6.0\apiBack.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\repo back\front-back\back\apiBack\apiBack\obj\Release\net6.0\apiBack.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\repo back\front-back\back\apiBack\apiBack\obj\Release\net6.0\apiBack.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\repo back\front-back\back\apiBack\apiBack\obj\Release\net6.0\apiBack.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrador\Desktop\repo back\front-back\back\apiBack\apiBack\obj\Release\net6.0\apiBack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrador\Desktop\repo back\front-back\back\apiBack\apiBack\obj\Release\net6.0\apiBack.sourcelink.json
+C:\Users\Administrador\Desktop\repo back\front-back\back\apiBack\apiBack\obj\Release\net6.0\apiBack.dll
+C:\Users\Administrador\Desktop\repo back\front-back\back\apiBack\apiBack\obj\Release\net6.0\refint\apiBack.dll
+C:\Users\Administrador\Desktop\repo back\front-back\back\apiBack\apiBack\obj\Release\net6.0\apiBack.pdb

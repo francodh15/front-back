@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", init);
-const URL_API = 'http://localhost:7030/api/'
+const URL_API = 'https://localhost:7114/api/'
 
 var customers = []
 
@@ -24,7 +24,7 @@ function cerrarModal() {
 
 
 async function search() {
-  var url = URL_API + 'customers'
+  var url = URL_API + 'customer'
   var response = await fetch(url, {
     "method": 'GET',
     "headers": {

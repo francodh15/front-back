@@ -14,9 +14,9 @@ namespace apiBack.Repositorios
         }
         public DbSet<CustomerEntity> tableback { get; set; }
 
-        public async Task<CustomerEntity> Get(int id)
+        public async Task<CustomerEntity?> Get(int id)
         {
-            return await tableback.FirstAsync(x => x.Id == id);
+            return await tableback.FirstOrDefaultAsync(x => x.Id == id);
         }
         public async Task<bool> Delete(int id)
         {
@@ -41,6 +41,12 @@ namespace apiBack.Repositorios
             await SaveChangesAsync();
             return await Get(response.Entity.Id ?? throw new Exception("No se ah podido guardar"));
 
+        }
+        public async Task<bool> Actualizar (CustomerEntity customerEntity)
+        {
+            tableback.Update(customerEntity);
+            await SaveChangesAsync();
+            return true;
         }
     }
     public class CustomerEntity

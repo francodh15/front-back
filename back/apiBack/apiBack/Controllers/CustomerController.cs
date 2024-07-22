@@ -70,7 +70,12 @@ namespace apiBack.Controllers
 
         public async Task<IActionResult> UpdateCustomer(CustomerDto customer)
         {
-            throw new NotImplementedException();
+           CustomerDto? result = await _updateCustomerUseCase.Execute(customer);
+
+            if (result == null)
+                return new NotFoundResult();
+            
+            return new OkObjectResult(result);
         }
     }
 }
